@@ -15,22 +15,15 @@ David Alwin S
 
 # Category: Cloud App Development
 
-SKILL RECOMMENDER
+# Software Required:
+Python, Flask , Docker
 
-# Skills Required:
+# System Required:
+8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
 
-This application is intended to provide information about containment zones in a particular region by alerting people, through continuous monitoring of an individual's location. Key benefits of the application are monitoring people's activity and alerting them of their safety movements.
+Having lots of skills but wondering which job will best suit you? Don’t need to worry! We have come up with a skill recommender solution through which the fresher or the skilled person can log in and find the jobs by using the search option or they can directly interact with the chatbot and get their dream job.
 
-# Features of the Application
 
- Admin App (portal):
- 
- They should login to the app and update the containment zones locations in the portal. Based on the location a Geofence will be created within a 100 meters radius. They should be able to see how many people are visiting that zone.
- 
-  User App (Mobile App):
-  
-  The app should have a user registration and login. After the user logged into the app it will track the user's location and update the database with the current location. If the user is visiting the containment zone he will get an alert notification.
-  
-  # Technical Architecture :
-  
-  ![image](https://user-images.githubusercontent.com/95663774/190892934-53099ebb-3199-45c2-8314-eac5a710525e.png)
+To develop an end-to-end web application capable of displaying the current job openings based on the user skillset.  The user and their information are stored in the Database.  An alert is sent when there is an opening based on the user skillset. Users will interact with the chatbot and can get the recommendations based on their skills. We can use a job search API to get the current job openings in the market which will fetch the data directly from the webpage.
+
+![image](https://user-images.githubusercontent.com/113821049/190893209-966c11da-0213-4f02-bb73-b9f7782354d5.png)
