@@ -1,7 +1,7 @@
-str = "Aswin"
+str = "Vignesh"
 
 #concatinate strings
-print(str+" Kumar")
+print(str+" Ajith")
 
 #reverse the string
 print(str[::-1])
