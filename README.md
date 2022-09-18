@@ -5,7 +5,7 @@ Skill / Job Recommender Application
 
 Vignesh B
 
-Sanjai Kumar
+Sanjai Kumar N
 
 Ranjith Kumar
 
