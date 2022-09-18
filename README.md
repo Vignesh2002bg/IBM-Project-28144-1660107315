@@ -3,12 +3,12 @@ Skill / Job Recommender Application
 
 # Team Member
 
+Ranjith Kumar P
+
 Vignesh B
 
 Sanjai Kumar N
 
-Ranjith Kumar
-
-David Alwin
+David Alwin S
 
 
