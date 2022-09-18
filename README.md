@@ -1,3 +1,10 @@
 # IBM-Project-28144-1660107315
 Skill / Job Recommender Application
-Sanjai
+
+Team Member
+
+Vignesh B
+
+Sanjai Kumar
+
+Ranjith Kumar
