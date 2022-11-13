@@ -1,0 +1,57 @@
+.nav-link{
+    text-decoration: none;
+}
+.account{
+    float: right;
+}
+.job{
+    text-align: center;
+    margin-top: 125px;
+}
+.image{
+    background-image: url("./image/2108.w023.n001.914B.p1.914.jpg");
+    height: 450px;
+    align-items: center;
+    width: 100%;
+}
+.title{
+    font-family: Fantasy;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    
+}
+#in{
+    list-style-type: circle;
+    margin-top: 20px;
+   display: -ms-inline-flexbox;
+   list-style: none;
+}
+.title1{
+    font-family: Fantasy;
+    text-align: center;
+    color: rgba(50, 48, 199, 0.616);
+    margin-top: 20px;
+}
+.s,.l1{
+    display: inline-block;
+    margin-left: 10px;
+    text-align: center;
+    margin-top: 20px;
+    list-style: circle;
+}
+.s1{
+    display: inline-block;
+    margin-top: 20px;
+    align-items: center;
+}
+.s1{
+    margin-left: 30%;
+}
+.sec{
+margin-left: 1px;
+}
+.hd{
+    text-align: center;
+    font-family: Fantasy;
+}
