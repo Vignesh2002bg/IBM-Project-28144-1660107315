@@ -3,7 +3,7 @@ Skill / Job Recommender Application
 
 # Team Members
 
-Ranjith Kumar P
+Ranjith Kumar P  (Team Leader)
 
 Vignesh B
 

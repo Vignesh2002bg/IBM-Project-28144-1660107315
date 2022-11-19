@@ -1,0 +1,136 @@
+body{
+    background-color:white;
+}
+.nav-link{
+    text-decoration: none;
+}
+.account{
+    float: right;
+}
+.job{
+    text-align: center;
+    margin-top: 125px;
+}
+.job2{
+text-align:center;
+margin-top:20px
+}
+.image{
+    background-image: url("./image/2108.w023.n001.914B.p1.914.jpg");
+    height: 450px;
+    align-items: center;
+    width: 100%;
+}
+.title{
+    font-family: Fantasy;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    
+}
+#in{
+    list-style-type: circle;
+    margin-top: 20px;
+   display: -ms-inline-flexbox;
+   list-style: none;
+}
+.title1{
+    font-family: Fantasy;
+    text-align: center;
+    color: rgba(50, 48, 199, 0.616);
+    margin-top: 20px;
+}
+.s,.l1{
+    display: inline-block;
+    margin-left: 10px;
+    text-align: center;
+    margin-top: 20px;
+    list-style: circle;
+}
+.s1{
+    display: inline-block;
+    margin-top: 20px;
+    align-items: center;
+}
+.s1{
+    margin-left: 30%;
+}
+.sec{
+margin-left: 1px;
+}
+.hd{
+    text-align: center;
+    font-family: Fantasy;
+}
+.card{
+    margin-top: 20px;
+}
+.card-sub{
+    text-align: center;
+    background-color: cadetblue;
+    color: antiquewhite;
+    font-family: Fantasy;
+    margin-top: 0px;
+}
+.table{
+margin-top:20px;
+margin-left:20px;
+width:1250px
+}
+<!--search-->
+@import url("https://fonts.googleapis.com/css2?family=Poppins:weight@100;200;300;400;500;600;700;800&display=swap");
+
+
+       body{
+        background-color:#eee;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+       }
+
+       .height{
+        height: 30vh;
+       }
+
+
+       .search{
+       position: relative;
+       box-shadow: 0 0 40px rgba(51, 51, 51, .1);
+
+       }
+
+       .search input{
+
+        height: 60px;
+        text-indent: 25px;
+        border: 2px solid #d6d4d4;
+
+
+       }
+
+
+       .search input:focus{
+
+        box-shadow: none;
+        border: 2px solid blue;
+
+
+       }
+
+       .search .fa-search{
+
+        position: absolute;
+        top: 20px;
+        left: 16px;
+
+       }
+
+       .search button{
+
+        position: absolute;
+        top: 5px;
+        right: 5px;
+        height: 50px;
+        width: 110px;
+        background: blue;
+
+       }
