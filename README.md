@@ -3,9 +3,9 @@ Skill / Job Recommender Application
 
 # Team Members
 
-Ranjith Kumar P  (Team Leader)
+Ranjith Kumar P  
 
-Vignesh B
+Vignesh B (Team Leader)
 
 Sanjai Kumar N
 
